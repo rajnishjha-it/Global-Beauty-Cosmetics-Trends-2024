@@ -64,3 +64,22 @@ Includes a 9-slide PPT with:
 ## 🙌 Acknowledgment
 Special thanks to all open-source contributors and online datasets that enabled this study.
 
+---
+
+## 📷 Screenshots
+
+> Included screenshots of the dashboards in the repository.
+
+---
+
+## 📄 Author
+
+**Rajnish Kumar Jha**  
+*Data Analyst | Power BI Developer*  
+http://www.linkedin.com/in/rajnish-jha- | rajnishjhait@gmail.com
+
+---
+
+## 🙋‍♂️ Questions or Feedback?
+
+Feel free to raise an issue or contact me for suggestions and improvements!
